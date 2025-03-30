@@ -1,4 +1,4 @@
-# 📚 Perceptron de Camada Única
+# 📚 Single Layer Perceptron
 
 Este repositório contém a implementação de um **Perceptron de Camada Única** (Single Layer Perceptron - SLP) para classificação binária, desenvolvido como parte da disciplina de **Redes Neurais Artificiais** do Programa de Pós-Graduação em Ciência da Computação (PPGCC - UNESP).
 
